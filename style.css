@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.boxes {
+  border: 1rem solid black;
+}
+
+.box {
+  padding: 5rem;
+}
+
+.box1 {
+  background: lightblue;
+}
+
+.box2 {
+  background: rgb(247, 182, 3);
+}
+.box3 {
+  background: rgb(206, 3, 202);
+}
+.box4 {
+  background: rgb(3, 194, 15);
+}
+.box5 {
+  background: rgb(218, 234, 1);
+}
